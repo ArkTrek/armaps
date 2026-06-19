@@ -40,7 +40,7 @@ Ensure you have **Python 3.10** installed on your system.
 1. **Clone the repository:**
 ```bash
    git clone [https://github.com/arktrek/armaps.git](https://github.com/arktrek/armaps.git)
-   cd ar-maps
+   cd armaps
 
 ```
 
